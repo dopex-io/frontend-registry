@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dopex UI",
+    "websiteURL": "https://app.dopex.io",
+    "dateLaunched": "June 2021",
+    "description": "Official Dopex frontend, code at https://github.com/dopex-io/elvarg",
+    "owner": "Dopex",
+    "hostedOn": "Vercel",
+    "contactInfo": [
+      { "type": "discord", "url": "https://discord.gg/dopex" },
+      { "type": "twitter", "url": "https://twitter.com/dopex-io" },
+      { "type": "github", "url": "https://github.com/dopex-io" }
+    ]
+  }
+]
