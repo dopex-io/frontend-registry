@@ -1,6 +1,7 @@
 ## Dopex UI Frontend
 
 - Website URL: https://dopex-ui.eth.limo
+- Hosted on: IPFS
 - Date Launched: 12th May 2023
 - Owner name: BossLmp
 - Contact Links: https://twitter.com/BossImp75
