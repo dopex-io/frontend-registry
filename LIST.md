@@ -5,7 +5,6 @@
 ## Frontend List
 
 - [Dopex App](frontends/dopex-app.md)
-- [Dopex UI](frontends/dopex-ui.md)
 
 ## Disclaimer
 

@@ -11,16 +11,5 @@
       { "type": "twitter", "url": "https://twitter.com/dopex-io" },
       { "type": "github", "url": "https://github.com/dopex-io" }
     ]
-  },
-  {
-    "name": "Dopex UI",
-    "websiteURL": "https://dopex-ui.eth.limo",
-    "dateLaunched": "12th May 2023",
-    "description": "Forked from https://github.com/dopex-io/elvarg running on IPFS",
-    "owner": "BossLmp",
-    "hostedOn": "IPFS",
-    "contactInfo": [
-      { "type": "twitter", "url": "https://twitter.com/BossImp75" }
-    ]
   }
 ]
